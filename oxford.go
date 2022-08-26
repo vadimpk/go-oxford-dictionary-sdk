@@ -1,4 +1,4 @@
-package main
+package oxford
 
 import (
 	"encoding/json"
